@@ -10,12 +10,12 @@
         "laravel/framework": "^v10.13.3",
         "laravel/sanctum": "^3.0",
         "laravel/tinker": "^2.7",
-        "mailjet/laravel-mailjet": "^3.0.4",
-        "zircote/swagger-php": "^4.7",
-        "symfony/finder": "^4.4 || ^5.0 || ^6.0"
+        "mailjet/laravel-mailjet": "^3.0",
+        "symfony/finder": "^4.4 || ^5.0 || ^6.0",
+        "zircote/swagger-php": "^4.7"
     },
     "require-dev": {
-        "ext-http": "*",
+
         "barryvdh/laravel-debugbar": "^3.7",
         "barryvdh/laravel-ide-helper": "^2.12",
         "behat/behat": "^3.13",
